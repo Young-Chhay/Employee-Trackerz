@@ -10,6 +10,7 @@ The application then uses user responses it received from Inquirer to store, ret
 
 
 Live Demo : Employee 
+[Demo - employee Trackerz.webm](https://user-images.githubusercontent.com/108245172/199684635-d4a813c6-d20c-4770-a600-2d8691fbc538.webm)
 
 
 Link to Application Repo
